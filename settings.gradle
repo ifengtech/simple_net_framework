@@ -1,0 +1,3 @@
+include ':SimpleNet_Demo'
+include ':'
+//include ':simple_net_framework_test'
